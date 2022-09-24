@@ -1,6 +1,6 @@
 {
   "name": "@sudoo/marked-mixin-parse-monaco",
-  "version": "1.2.0",
+  "version": "1.0.0",
   "description": "Monaco Support for Marked Parse Mixin",
   "repository": {
     "type": "git",
